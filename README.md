@@ -4,8 +4,6 @@
 he/him · [manas.sh](https://manas.sh)
 
 <img src="https://img.shields.io/badge/-goat-B19CD9?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-cybersecurity-B19CD9?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/-mechatronics-B19CD9?style=flat-square&labelColor=0d1117" />
 </div>
 
 ## about
@@ -19,7 +17,7 @@ $ status
 present day, present time...
 ```
 
-> No matter where you go, everyone's connected. - Lain
+> No matter where you go, everyone's connected.
 
 <div align="center">
 <sub>close the world, open the nExt</sub>
