@@ -7,8 +7,7 @@ he/him · [manas.sh](https://manas.sh)
 </div>
 
 ## about
-i like doing cool stuff. feel free to contact me
-
+i like cool stuff. 
 ```
 $ whoami
 manas
