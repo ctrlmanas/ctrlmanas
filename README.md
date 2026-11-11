@@ -11,7 +11,6 @@ i like cool stuff.
 ```
 $ whoami
 manas
-
 ```
 
 <div align="center">
