@@ -12,11 +12,7 @@ i like cool stuff.
 $ whoami
 manas
 
-$ status
-present day, present time...
 ```
-
-> No matter where you go, everyone's connected.
 
 <div align="center">
 <sub>close the world, open the nExt</sub>
